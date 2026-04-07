@@ -149,10 +149,9 @@ Note: the container connects to Ollama running on the host through `host.docker.
 4. Ask a medical question in the chat box.
 5. Expand `📚 Sources & Confidence` to inspect retrieved evidence.
 
-### Screenshot Placeholders
+## Screenshots
 
-- `docs/screenshots/home.png`
-- `docs/screenshots/chat-response.png`
+![MedAssist AI Demo](docs/screenshots/Screenshot 2026-04-07 at 3.44.55 PM.png)
 
 ## Project Structure
 
